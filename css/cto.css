@@ -1,0 +1,16 @@
+* {
+    font-family: 'Arvo', serif;
+}
+
+.container {
+    background: #B5DEFF;
+    
+}
+
+
+input {
+border-radius: 5px;
+border: solid;
+border-color: #B5DEFF;
+}
+
